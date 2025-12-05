@@ -198,5 +198,245 @@
     "risk": "Dependence, overdose",
     "form": "Pills, liquid",
     "addiction": "High"
+  },
+  {
+    "name": "Nitrous Oxide",
+    "category": "Dissociative",
+    "effects": "Euphoria, laughter, dissociation",
+    "risk": "Oxygen deprivation, nerve damage",
+    "form": "Gas cartridges",
+    "addiction": "Low"
+  },
+  {
+    "name": "PCP",
+    "category": "Dissociative",
+    "effects": "Detachment, numbness, hallucinations",
+    "risk": "Violent behavior, psychosis, seizures",
+    "form": "Powder, liquid, tablets",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Modafinil",
+    "category": "Stimulant",
+    "effects": "Wakefulness, concentration",
+    "risk": "Headache, insomnia, rare skin reactions",
+    "form": "Tablets",
+    "addiction": "Low"
+  },
+  {
+    "name": "Kratom",
+    "category": "Opioid/Stimulant",
+    "effects": "Pain relief, energy (low dose), sedation (high dose)",
+    "risk": "Dependence, withdrawal, liver damage",
+    "form": "Dried leaves, powder, capsules",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Synthetic Cathinones (Bath Salts)",
+    "category": "Stimulant",
+    "effects": "Euphoria, energy, increased sociability",
+    "risk": "Violent behavior, psychosis, heart attack",
+    "form": "Powder, crystals",
+    "addiction": "High"
+  },
+  {
+    "name": "Salvia Divinorum",
+    "category": "Hallucinogen",
+    "effects": "Intense, short-lived hallucinations",
+    "risk": "Fear, confusion, loss of coordination",
+    "form": "Dried leaves, extract",
+    "addiction": "Very low"
+  },
+  {
+    "name": "Phenibut",
+    "category": "Depressant",
+    "effects": "Reduced anxiety, euphoria, sociability",
+    "risk": "Dependence, severe withdrawal, overdose",
+    "form": "Powder, capsules",
+    "addiction": "Medium–high"
+  },
+  {
+    "name": "Codeine",
+    "category": "Opioid",
+    "effects": "Pain relief, relaxation, cough suppression",
+    "risk": "Dependence, respiratory depression",
+    "form": "Liquid, tablets",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Morphine",
+    "category": "Opioid",
+    "effects": "Powerful pain relief, euphoria",
+    "risk": "Respiratory depression, dependence, overdose",
+    "form": "Injectable solution, tablets",
+    "addiction": "High"
+  },
+  {
+    "name": "Oxymorphone",
+    "category": "Opioid",
+    "effects": "Strong pain relief, sedation",
+    "risk": "Overdose, dependence, respiratory depression",
+    "form": "Tablets, injectable",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Hydrocodone",
+    "category": "Opioid",
+    "effects": "Pain relief, euphoria",
+    "risk": "Dependence, liver damage (with acetaminophen)",
+    "form": "Tablets, capsules",
+    "addiction": "High"
+  },
+  {
+    "name": "Oxycodone",
+    "category": "Opioid",
+    "effects": "Pain relief, relaxation",
+    "risk": "Overdose, dependence, addiction",
+    "form": "Tablets, capsules",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Carfentanil",
+    "category": "Opioid",
+    "effects": "Extreme sedation, pain relief",
+    "risk": "Instant fatal overdose (extremely potent)",
+    "form": "Powder, liquid",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Loperamide",
+    "category": "Opioid",
+    "effects": "Anti-diarrheal (high doses can produce opioid effects)",
+    "risk": "Cardiac arrhythmias, opioid dependence",
+    "form": "Tablets, capsules",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Tianeptine",
+    "category": "Opioid/AD",
+    "effects": "Mood improvement, relaxation (high doses)",
+    "risk": "Dependence, withdrawal, overdose",
+    "form": "Powder, tablets",
+    "addiction": "High"
+  },
+  {
+    "name": "Kava",
+    "category": "Depressant",
+    "effects": "Relaxation, mild euphoria",
+    "risk": "Liver damage (rare), dependency",
+    "form": "Powder, capsules, beverage",
+    "addiction": "Low"
+  },
+  {
+    "name": "Propofol",
+    "category": "Depressant",
+    "effects": "Sedation, anesthesia",
+    "risk": "Respiratory arrest, hypotension, dependence",
+    "form": "Injectable liquid",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Zolpidem",
+    "category": "Depressant",
+    "effects": "Sedation, sleep induction",
+    "risk": "Sleepwalking, dependence, memory issues",
+    "form": "Tablets",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Zopiclone",
+    "category": "Depressant",
+    "effects": "Sleep induction, sedation",
+    "risk": "Dependence, memory problems, metallic taste",
+    "form": "Tablets",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Dextroamphetamine",
+    "category": "Stimulant",
+    "effects": "Focus, alertness, energy",
+    "risk": "Cardiovascular issues, psychosis, dependence",
+    "form": "Tablets, capsules",
+    "addiction": "High"
+  },
+  {
+    "name": "Methylphenidate",
+    "category": "Stimulant",
+    "effects": "Increased focus, alertness",
+    "risk": "Cardiovascular issues, dependence, psychosis",
+    "form": "Tablets, capsules, patches",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Pseudoephedrine",
+    "category": "Stimulant",
+    "effects": "Decongestant (can be used in meth production)",
+    "risk": "Insomnia, hypertension, stroke",
+    "form": "Tablets, liquid",
+    "addiction": "Low"
+  },
+  {
+    "name": "Ephedrine",
+    "category": "Stimulant",
+    "effects": "Energy, weight loss, bronchodilation",
+    "risk": "Heart attack, stroke, dependence",
+    "form": "Tablets, powder",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Mescaline",
+    "category": "Hallucinogen",
+    "effects": "Visual hallucinations, altered perception",
+    "risk": "Nausea, panic, psychosis",
+    "form": "Cactus buttons, powder, capsules",
+    "addiction": "Low"
+  },
+  {
+    "name": "Ibogaine",
+    "category": "Hallucinogen",
+    "effects": "Visionary experiences, introspection",
+    "risk": "Cardiac arrest, psychosis, death",
+    "form": "Root bark, powder, capsules",
+    "addiction": "Low"
+  },
+  {
+    "name": "AMT",
+    "category": "Hallucinogen/Stimulant",
+    "effects": "Stimulation, visual enhancement, empathy",
+    "risk": "Seizures, serotonin syndrome, death",
+    "form": "Powder, tablets",
+    "addiction": "Medium"
+  },
+  {
+    "name": "5-MeO-DMT",
+    "category": "Hallucinogen",
+    "effects": "Intense, short-lasting visionary experience",
+    "risk": "Panic, respiratory issues",
+    "form": "Powder, venom (from toads)",
+    "addiction": "Very low"
+  },
+  {
+    "name": "DOB",
+    "category": "Hallucinogen",
+    "effects": "Long-lasting visuals, stimulation",
+    "risk": "Vasoconstriction, panic, psychosis",
+    "form": "Blotter paper, powder",
+    "addiction": "Low"
+  },
+  {
+    "name": "NBOMe",
+    "category": "Hallucinogen",
+    "effects": "Intense visuals, stimulation",
+    "risk": "Seizures, death (due to potency variability)",
+    "form": "Blotter paper, powder",
+    "addiction": "Medium"
+  },
+  {
+    "name": "PMA/PMMA",
+    "category": "Stimulant/Entactogen",
+    "effects": "Mild euphoria, empathy (sold as MDMA)",
+    "risk": "Hyperthermia, death (highly toxic)",
+    "form": "Tablets, powder",
+    "addiction": "Medium"
   }
 ]
