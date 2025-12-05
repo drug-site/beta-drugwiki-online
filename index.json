@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Methamphetamine",
+    "category": "Stimulant",
+    "effects": "Euphoria, energy, confidence",
+    "risk": "Brain damage, psychosis, 'meth teeth'",
+    "form": "Powder, crystals",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Amphetamine",
+    "category": "Stimulant",
+    "effects": "Alertness, focus",
+    "risk": "Dependence, insomnia, cardiovascular issues",
+    "form": "Powder, pills",
+    "addiction": "High"
+  },
+  {
+    "name": "Cocaine",
+    "category": "Stimulant",
+    "effects": "Euphoria, energy, excitement",
+    "risk": "Heart attack, stroke, dependence",
+    "form": "Powder, crack",
+    "addiction": "Very high"
+  },
+  {
+    "name": "MDMA",
+    "category": "Stimulant/Psychedelic",
+    "effects": "Euphoria, empathy, energy",
+    "risk": "Dehydration, depression after use",
+    "form": "Pills, powder",
+    "addiction": "Medium (psychological)"
+  },
+  {
+    "name": "LSD",
+    "category": "Hallucinogen",
+    "effects": "Altered perception, trips",
+    "risk": "Panic, flashbacks",
+    "form": "Blotter paper, liquid",
+    "addiction": "Very low"
+  },
+  {
+    "name": "Psilocybin Mushrooms",
+    "category": "Hallucinogen",
+    "effects": "Altered perception, euphoria",
+    "risk": "Bad trips, accidental poisoning",
+    "form": "Dried or fresh mushrooms",
+    "addiction": "Low"
+  },
+  {
+    "name": "Heroin",
+    "category": "Opioid",
+    "effects": "Euphoria, relaxation",
+    "risk": "Overdose, withdrawal, infections",
+    "form": "Powder, tar",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Fentanyl",
+    "category": "Opioid",
+    "effects": "Strong euphoria",
+    "risk": "Instant overdose",
+    "form": "Powder, pills",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Tramadol",
+    "category": "Opioid",
+    "effects": "Pain relief, relaxation",
+    "risk": "Dependence, overdose",
+    "form": "Pills",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Alcohol",
+    "category": "Depressant",
+    "effects": "Relaxation, euphoria",
+    "risk": "Liver and heart damage, dependence",
+    "form": "Liquid",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Benzodiazepines",
+    "category": "Depressant",
+    "effects": "Calmness, sedation",
+    "risk": "Dependence, overdose",
+    "form": "Pills",
+    "addiction": "Medium–high"
+  },
+  {
+    "name": "Spice / Synthetic Cannabinoids",
+    "category": "Cannabinoids",
+    "effects": "Relaxation, hallucinations",
+    "risk": "Panic, seizures, psychosis",
+    "form": "Dried herbs",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Marijuana",
+    "category": "Cannabinoids",
+    "effects": "Relaxation, euphoria",
+    "risk": "Mental issues, mild dependence",
+    "form": "Dried leaves",
+    "addiction": "Low"
+  },
+  {
+    "name": "Crack",
+    "category": "Stimulant",
+    "effects": "Fast intense high, energy",
+    "risk": "Overdose, dependence",
+    "form": "Crystals for smoking",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Mephedrone",
+    "category": "Stimulant",
+    "effects": "Euphoria, stimulation",
+    "risk": "Psychosis, panic, dependence",
+    "form": "Powder",
+    "addiction": "Very high"
+  },
+  {
+    "name": "Ketamine",
+    "category": "Dissociative",
+    "effects": "Detached feeling, euphoria",
+    "risk": "Overdose, mental issues",
+    "form": "Liquid, powder",
+    "addiction": "Medium"
+  },
+  {
+    "name": "DXM",
+    "category": "Hallucinogen",
+    "effects": "Euphoria, dissociation",
+    "risk": "Nausea, panic, dependence",
+    "form": "Cough syrup",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Poppers (Alkyl Nitrites)",
+    "category": "Other",
+    "effects": "Muscle relaxation, rush",
+    "risk": "Dizziness, drop in blood pressure",
+    "form": "Liquid",
+    "addiction": "Low"
+  },
+  {
+    "name": "2C-B",
+    "category": "Hallucinogen",
+    "effects": "Visuals, euphoria",
+    "risk": "Panic, possible overdose",
+    "form": "Pills, powder",
+    "addiction": "Medium"
+  },
+  {
+    "name": "2C-I",
+    "category": "Hallucinogen",
+    "effects": "Visual distortions, stimulation",
+    "risk": "Panic, psychosis",
+    "form": "Pills, powder",
+    "addiction": "Medium"
+  },
+  {
+    "name": "Ayahuasca",
+    "category": "Hallucinogen",
+    "effects": "Spiritual experiences, strong visuals",
+    "risk": "Vomiting, mental issues",
+    "form": "Herbal brew",
+    "addiction": "Low"
+  },
+  {
+    "name": "GHB / GBL",
+    "category": "Depressant",
+    "effects": "Relaxation, euphoria",
+    "risk": "Overdose, coma",
+    "form": "Liquid",
+    "addiction": "Medium"
+  },
+  {
+    "name": "α-PVP",
+    "category": "Stimulant",
+    "effects": "Strong euphoria, energy",
+    "risk": "Psychosis, aggression, heart issues",
+    "form": "Powder",
+    "addiction": "Very high"
+  },
+  {
+    "name": "DMT",
+    "category": "Hallucinogen",
+    "effects": "Intense fast visuals",
+    "risk": "Panic, psychosis",
+    "form": "Crystals (smoked)",
+    "addiction": "Very low"
+  },
+  {
+    "name": "Methadone",
+    "category": "Opioid",
+    "effects": "Pain relief, euphoria",
+    "risk": "Dependence, overdose",
+    "form": "Pills, liquid",
+    "addiction": "High"
+  }
+]
